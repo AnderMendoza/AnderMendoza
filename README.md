@@ -1,5 +1,6 @@
 <h1 align="center">Hola 👋, soy Anderson Mendoza</h1>
 <h3 align="center">Un desarrollador frontend apasionado de Perú</h3>
+<img src="https://media-exp2.licdn.com/dms/image/C4D16AQEVPofGzSNuFg/profile-displaybackgroundimage-shrink_350_1400/0/1655940574835?e=1661385600&v=beta&t=0wREHHaAUT8zhS--jcLsh4uBMo6CUxDGVgRZMHI8mwM">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andermendoza&label=Profile%20views&color=0e75b6&style=flat" alt="andermendoza" /> </p>
 
