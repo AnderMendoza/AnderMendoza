@@ -8,7 +8,7 @@
 
 - 🌱 Actualmente estoy en la carrera de **Diseño y Desarrollo de Software**
 
-- 📫 Cómo llegar a mí **davidmramos53@gmail.com**
+- 📫 Cómo llegar a mí **davidmramos30@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
