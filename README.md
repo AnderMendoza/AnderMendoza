@@ -8,9 +8,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andermendoza&theme=dracula&column=7" alt="andermendoza" /></a> </p>
 
 <!-- BREVE DESCRIPCION -->
-- 📚 I am currently studying at [Instituto Certus](https://www.certus.edu.pe/)
+- 📚 I am currently studying at [Institute Certus](https://www.certus.edu.pe/)
 
-- 🌱 I am currently in the race **Diseño y Desarrollo de Software**
+- 🌱 I am currently in the race **Software Design and Development**
 
 - 📫 How to reach me **davidmramos30@gmail.com**
 
