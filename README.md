@@ -1,8 +1,8 @@
-<!-- RAINBOW LINE -->
+<!-- RAINBOW LINE TOP-->
 <img src="line-neon.gif" width="100%">
 
 <!-- PORTADA -->
-<img src="https://media-exp1.licdn.com/dms/image/C4D16AQEVPofGzSNuFg/profile-displaybackgroundimage-shrink_350_1400/0/1655940574835?e=1666828800&v=beta&t=R5Tv2c9EV4dTb2rf-fqAu6C3gC2SoWMi4InTxfDDviw">
+<img src="Banner.gif">
 
 <!-- VISTAS DEL PERFIL -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andermendoza&label=Profile%20views&color=0e75b6&style=flat" alt="andermendoza" /> </p>
@@ -33,3 +33,6 @@
   <img style="height:100%;width:49%;max-width: 100%" src="https://github-readme-stats.vercel.app/api?username=andermendoza&theme=gotham&count_private=true&show_icons=true&include_all_commits=true"/>
   <img style="height:100%;width:49%;max-width: 10%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andermendoza&layout=compact&theme=gotham&langs_count=8"/>
 </div>
+
+<!-- RAINBOW LINE BOT-->
+<img src="line-neon.gif" width="100%">
