@@ -1,3 +1,6 @@
+<!-- RAINBOW LINE -->
+<img src="line-neon.gif" width="100%">
+
 <!-- PORTADA -->
 <img src="https://media-exp1.licdn.com/dms/image/C4D16AQEVPofGzSNuFg/profile-displaybackgroundimage-shrink_350_1400/0/1655940574835?e=1666828800&v=beta&t=R5Tv2c9EV4dTb2rf-fqAu6C3gC2SoWMi4InTxfDDviw">
 
