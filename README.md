@@ -1,8 +1,8 @@
-<!-- RAINBOW LINE TOP-->
+<!-- RAINBOW LINE TOP -->
 <img src="line-neon.gif" width="100%">
 
-<!-- PORTADA -->
-<img src="banner.gif">
+<!-- GIF HEADER -->
+<img src="banner-header.gif">
 
 <!-- VISTAS DEL PERFIL -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andermendoza&label=Profile%20views&color=0e75b6&style=flat" alt="andermendoza" /> </p>
@@ -34,5 +34,8 @@
   <img style="height:100%;width:49%;max-width: 10%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andermendoza&layout=compact&theme=gotham&langs_count=8"/>
 </div>
 
-<!-- RAINBOW LINE BOT-->
+<!-- GIF FOOTER -->
+<img src="banner-footer.gif">
+
+<!-- RAINBOW LINE BOT -->
 <img src="line-neon.gif" width="100%">
