@@ -1,8 +1,8 @@
 <!-- RAINBOW LINE TOP -->
-<img src="line-neon.gif" width="100%">
+<img src="assets/line-neon.gif" width="100%">
 
 <!-- GIF HEADER -->
-<img src="banner-header.gif">
+<img src="assets/banner-header.gif">
 
 <!-- VISTAS DEL PERFIL -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andermendoza&label=Profile%20views&color=0e75b6&style=flat" alt="andermendoza" /> </p>
@@ -35,7 +35,7 @@
 </div>
 
 <!-- GIF FOOTER -->
-<img src="banner-footer.gif">
+<img src="assets/banner-footer.gif">
 
 <!-- RAINBOW LINE BOT -->
-<img src="line-neon.gif" width="100%">
+<img src="assets/line-neon.gif" width="100%">
