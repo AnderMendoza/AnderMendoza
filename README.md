@@ -15,9 +15,9 @@
 
 - 🌱 I am currently in the race **Software Design and Development**
 
-- 📫 How to reach me **davidmramos30@gmail.com**
-
 - 🏙 Creator of the [Certus Devs](https://github.com/Certus-Devs) organization
+
+- 📫 How to reach me **davidmramos30@gmail.com**
 
 <!-- CONTACTO -->
 <h3 align="left">Connect with me:</h3>
