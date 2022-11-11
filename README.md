@@ -17,6 +17,8 @@
 
 - 🏙 Creator of the [Devs Community](https://github.com/Devs-Com) organization
 
+- 🌍 Participate in the [Hactoberfest 2022](https://hacktoberfest.com/)
+
 - 📫 How to reach me **davidmramos30@gmail.com**
 
 <!-- CONTACTO -->
