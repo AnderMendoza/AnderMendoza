@@ -19,7 +19,7 @@
 
 - 👩‍💻 Participating in the ONE program of [Oracle Latin America](https://www.oracle.com/lad)
 
-- 🌍 Participate in the [Hactoberfest 2022](https://hacktoberfest.com/)
+- 🌍 Participate in the [Hacktoberfest 2022](https://hacktoberfest.com/)
 
 - 📫 How to reach me **davidmramos30@gmail.com**
 
