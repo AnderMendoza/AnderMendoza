@@ -2,21 +2,22 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andermendoza&label=Profile%20views&color=0e75b6&style=flat" alt="andermendoza" /> </p>
 
 <!-- GIF HEADER -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO👋;I'm+from+Perú;I'm+21+years+old;Welcome!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO👋;I'm+from+Perú;I'm+21+years+old;Welcome!) 
 
 <!-- BREVE DESCRIPCION -->
 <div align="center">
-📚 I am currently studying at [Institute Certus](https://www.certus.edu.pe/)
+  
+  📚 I am currently studying at [Institute Certus](https://www.certus.edu.pe)
+  
+  🌱 I am currently in the race **Software Design and Development**
 
-🌱 I am currently in the race **Software Design and Development**
+  🏙 Creator of the [Devs Community](https://github.com/Devs-Com) organization
 
-🏙 Creator of the [Devs Community](https://github.com/Devs-Com) organization
+  👩‍💻 Participating in the ONE program of [Oracle Latinoamérica](https://www.oracle.com/lad) and [Alura Latam](https://www.aluracursos.com/)
 
-👩‍💻 Participating in the ONE program of [Oracle Latinoamérica](https://www.oracle.com/lad) and [Alura Latam](https://www.aluracursos.com/)
+  🌍 Participate in the [Hacktoberfest](https://hacktoberfest.com/) 2022
 
-🌍 Participate in the [Hacktoberfest](https://hacktoberfest.com/) 2022
-
-📫 How to reach me **davidmramos30@gmail.com**
+  📫 How to reach me **davidmramos30@gmail.com**
 </div>
 <br>
 
