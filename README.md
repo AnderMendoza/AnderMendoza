@@ -16,7 +16,7 @@
 
   🏙 Creator of the [Devs Community](https://github.com/Devs-Com) organization
 
-  👩‍💻 Participating in the ONE program of [Oracle Latinoamérica](https://www.oracle.com/lad) and [Alura Latam](https://www.aluracursos.com/)
+  👩‍💻 Participant in the ONE program of [Oracle Latin America](https://www.oracle.com/lad) and [Alura Latam](https://www.aluracursos.com/)
 
   🌍 Participate in the [Hacktoberfest](https://hacktoberfest.com/) 2022
 
