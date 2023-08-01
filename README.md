@@ -40,6 +40,7 @@
 <br>
 
 <!-- TROFEOS GITHUB -->
+<h3 align="center">Stats:</h3>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andermendoza&theme=dracula&column=8" alt="andermendoza" /></a> </p>
 
 <!-- STATS Y LENGUAJES MAS USADOS -->
