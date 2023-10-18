@@ -18,7 +18,7 @@
 
 👩‍💻 Participant in the ONE program of [Oracle Latin America](https://www.oracle.com/lad) and [Alura Latam](https://www.aluracursos.com/)
 
-🌍 Participate in the [Hacktoberfest](https://hacktoberfest.com/) 2022
+🌍 Participate in the [Hacktoberfest](https://hacktoberfest.com/) 2022 - 2023
 
 📫 How to reach me **davidmramos53@gmail.com**
 
