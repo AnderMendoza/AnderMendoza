@@ -10,7 +10,7 @@
 <!-- BREVE DESCRIPCION -->
 <div align="center">
   
-  📚 I am currently studying at [Institute Certus](https://www.certus.edu.pe)
+  📚 I finished my studies in [Institute Certus](https://www.certus.edu.pe)
   
   🌱 I am currently in the race **Software Design and Development**
 
